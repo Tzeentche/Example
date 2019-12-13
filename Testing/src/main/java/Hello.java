@@ -4,7 +4,7 @@ public class Hello {
 
         int a, b, c;
 
-        for (int n = 3; n < 11; n++) {
+        int n = 3;
 
             for (a = 100000; a < 1000000; a++) {
 
@@ -21,8 +21,6 @@ public class Hello {
                     }
                 }
             }
-        }
-
 
         System.out.println("Hello World");
 
