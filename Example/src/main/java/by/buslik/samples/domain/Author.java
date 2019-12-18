@@ -1,4 +1,4 @@
-package by.buslik.sample;
+package by.buslik.samples.domain;
 
 import lombok.Data;
 import lombok.ToString;
